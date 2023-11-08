@@ -1,6 +1,7 @@
 body{
     background-color: rgb(230, 223, 223);
     font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1{
@@ -14,15 +15,10 @@ img{
     margin: auto;
     width: 50%;
 }
-
-p{
-
-}
-
 h2{
     color: crimson;
     font-size: 25px;
-    font-family:;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 
