@@ -1,7 +1,11 @@
+body{
+    background-color: gainsboro;
+}
+
 h1{
     color: crimson;
     font-size: 25px;
-    font-family: calibri;
+    font-family: ;
 }
 
 img{
@@ -17,5 +21,7 @@ p{
 h2{
     color: crimson;
     font-size: 25px;
-    font-family:calibri ;
+    font-family:;
 }
+
+
