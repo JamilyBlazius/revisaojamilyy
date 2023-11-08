@@ -1,13 +1,13 @@
 h1{
     color: crimson;
-    font-size: ;
-    font-family: ;
-    
-
+    font-size: 25px;
+    font-family: calibri;
 }
 
 img{
-
+    display: block;
+    margin: auto;
+    width: 50%;
 }
 
 p{
@@ -15,5 +15,7 @@ p{
 }
 
 h2{
-
+    color: crimson;
+    font-size: 25px;
+    font-family:calibri ;
 }
